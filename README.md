@@ -1,11 +1,5 @@
 # Windows Virtual Desktop Optimization Tool (VDOT)
 
-![Contributors](https://img.shields.io/github/contributors/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
-![Forks](https://img.shields.io/github/forks/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
-![Stars](https://img.shields.io/github/stars/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
-![Commits](https://img.shields.io/github/last-commit/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
-![Issues](https://img.shields.io/github/issues/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
-![Languages](https://img.shields.io/github/languages/top/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
 
 ## Introduction
 
